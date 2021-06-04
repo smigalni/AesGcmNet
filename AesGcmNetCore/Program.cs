@@ -5,10 +5,9 @@ namespace AesGcmNetCore
 {
     public class Program
     {        
-        public static Task Main()
+        public static async Task Main()
         {
-            Console.WriteLine("Hello World!");
-            return Task.CompletedTask;
+            await new EncryptionService().Encrypt();
         }
     }
 }
