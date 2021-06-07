@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AesGcmNet")]
+[assembly: AssemblyTitle("CaseJBF_NET4_8")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AesGcmNet")]
+[assembly: AssemblyProduct("CaseJBF_NET4_8")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("e3d00f33-2678-4225-b444-4c550cf21d51")]
+[assembly: Guid("c5505382-f6d7-4a3f-9aba-6cb8c6c22bc5")]
 
 // Version information for an assembly consists of the following four values:
 //
